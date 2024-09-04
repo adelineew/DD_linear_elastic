@@ -1,0 +1,17 @@
+# TEST INPUT FILE
+
+# output directory
+test_00
+
+
+# grid dimensions
+40 10 5
+
+# domain dimensions
+0.04 0.016 0.005
+
+# E, nu
+#1.0 0.3
+
+# number gauss points
+2 2 2
